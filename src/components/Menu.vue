@@ -63,6 +63,7 @@
         left: 100%;
         bottom: 0;
         background-color: #0E3757;
+        z-index: 10;
 
         &[aria-hidden="false"] {
             left: auto;
